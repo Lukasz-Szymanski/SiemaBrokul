@@ -1,7 +1,12 @@
-### Hi there 👋
+#Hi there 👋
+#I’m @SiemaBrokul
 
-- Hi, I’m @SiemaBrokul
+### About me:
 - A musician with a hobbyist approach to programming, constantly learning new things. 
 - Frontend novice
-- HTML, CSS, JavaScript 
+
+### Tech stock:
+- HTML 
+- CSS 
+- JavaScript 
 
