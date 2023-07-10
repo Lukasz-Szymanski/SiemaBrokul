@@ -11,4 +11,7 @@
 ### Tech stock:
 - HTML 
 - CSS 
-- JavaScript 
+- JavaScript
+- React
+- Git
+- Visual Studio Code
