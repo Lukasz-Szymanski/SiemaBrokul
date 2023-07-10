@@ -14,4 +14,7 @@
 - JavaScript
 - React
 - Git
+- Bootstrap
+- Bulma
+- Responsive Web Design
 - Visual Studio Code
